@@ -9,6 +9,8 @@ WRAMPmon was initially written by Dean Armstrong, and ran on the original
 REX boards. A few changes and enhancements were made by Daniel Oosterwijk
 and Tyler Marriner while reimplementing WRAMP on the Basys3 FPGA.
 
+This fork is maintained by @354ika (Curbies), or "Hong Fulin".
+
 ## Usage
 
 WRAMPmon is stored on the flash memory of the Basys3 FPGAs. Instructions for
